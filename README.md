@@ -1,34 +1,23 @@
-# Hi, I'm Badr 👋
+# Badr Zejli
 
-Full-stack + AI/ML engineer based in **Montreal**. I build native desktop apps, AR experiences, and dev tooling that ships.
+I study computer science at McGill in Montréal. I build tools for people working in 3D, from shader editors to Unreal Engine plugins. I’m looking for roles in graphics, engine development, and 3D machine learning.
 
-📫 **zejbadr@gmail.com** · 🌍 Montreal, QC · 🎓 CS @ McGill · 💼 **Open to SWE / new-grad roles**
+[Portfolio](https://zajalist.com/) · [Email](mailto:zejbadr@gmail.com)
 
----
+## Selected work
 
-### 🛠 Stack
+- **Risk Universalis 4** — I built visual effects and a pipeline for rendering dioramas in Roblox. I also worked on level of detail and texture streaming to keep the world within the engine’s limits. [Technical breakdown](https://zajalist.com/work/risk-universalis-4.html)
+- **A Gift for the Unfinished Journey** — Ziyun Xiao and I made an Unreal game about carrying a valley’s recorded voices up a mountain to its last transmitter. [Play on itch.io](https://zajalist.itch.io/a-gift-for-the-unfinished-journey)
+- **Gaussian splat R&D** — At Project Logistics, my work spans phone capture and rendering large 3D scenes. I’m happy to talk about the public side of the work.
 
-**Languages** C · C++ · Rust · TypeScript · Python · Java · OCaml · Assembly
-**Desktop / Native** Tauri · Electron · UE5 (C++ plugins)
-**Web** React · Next.js · Three.js · WebAssembly
-**AI / ML** PyTorch · MCP (Model Context Protocol) · LLM tool-use systems
-**AR / 3D** Lens Studio (Snap Spectacles) · Unreal Engine 5 · Blender · Gaea
+## Open source
 
----
+- **Hayba** — I started Hayba so people and AI agents could work in the same Unreal Editor. An agent can inspect a level and propose an edit, and the plugin checks the change inside Unreal. [Source](https://github.com/zajalist/hayba) · [Releases](https://github.com/zajalist/hayba/releases)
+- **shadereye** — A Rust tool that lets a coding agent render a shader and inspect the pixels it produced. The recorded example follows a GLSL bug from a flat wash of color to the intended animation. [Watch the example](https://github.com/zajalist/shadereye#readme)
+- **Shaddy** — I built the editor and parser for a shader playground. Move a shape on the canvas and the GLSL changes with it. [Try Shaddy](https://shaddy-eight.vercel.app/) · [Source](https://github.com/zajalist/shaddy)
 
-### 🚀 Featured projects
+## Hackathons
 
-| | |
-|---|---|
-| **[hayba](https://github.com/zajalist/hayba)** ⭐ | MCP toolkit + UE5 plugin — generate landscapes, materials, and PCG graphs from Claude Desktop. 26 tools, deployed at [hayba.vercel.app](https://hayba.vercel.app). |
-| **[GeoForge](https://github.com/zajalist/GeoForge)** | Interactive 3D Wilson-Cycle plate-tectonics simulator. C++ physics compiled to WebAssembly, rendered with Three.js. |
-| **[mindstep](https://github.com/zajalist/mindstep)** | AR rehabilitation task manager for Snap Spectacles — guided occupational-therapy exercises in AR with Firestore tracking. |
-| **[dhikrtop](https://github.com/zajalist/dhikrtop)** | Windows desktop app (Tauri + React) for Islamic adhkar & voice-powered Quran memorization. |
-| **[tahqiq](https://github.com/zajalist/tahqiq)** | Offline-first Tauri app for syntax-tree flashcards with SM-2 spaced repetition. |
+Our **Plumb** team took second place overall and won MLH Best Use of Vultr at MPC Hacks. The project tests whether an object placement makes physical sense and reports how far it is from a valid placement. [Submission and team](https://devpost.com/software/plumb) · [Source](https://github.com/zajalist/plumb)
 
----
-
-### 📈 Activity
-
-![Badr's GitHub stats](https://github-readme-stats.vercel.app/api?username=zajalist&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zajalist&layout=compact&hide_border=true&theme=transparent&langs_count=8)
+**OptiFrame** turns calibrated photographs of recycled eyeglass lenses into a printable fit-test frame. [Project](https://github.com/zajalist/optiframe)
