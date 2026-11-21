@@ -1,8 +1,9 @@
 # Badr Zejli
 
-I study computer science at McGill in Montréal. I build tools for people working in 3D, from shader editors to Unreal Engine plugins. I’m looking for roles in graphics, engine development, and 3D machine learning.
+I study computer science at McGill in Montréal. I have a wide range of interests but have recently focused on ML and Graphics programming.
 
-[Portfolio](https://zajalist.com/) · [Email](mailto:zejbadr@gmail.com)
+[Portfolio](https://zajalist.com/)
+[Email](mailto:zejbadr@gmail.com)
 
 ## Selected work
 
@@ -14,10 +15,6 @@ I study computer science at McGill in Montréal. I build tools for people workin
 
 - **Hayba** — I started Hayba so people and AI agents could work in the same Unreal Editor. An agent can inspect a level and propose an edit, and the plugin checks the change inside Unreal. [Source](https://github.com/zajalist/hayba) · [Releases](https://github.com/zajalist/hayba/releases)
 - **shadereye** — A Rust tool that lets a coding agent render a shader and inspect the pixels it produced. The recorded example follows a GLSL bug from a flat wash of color to the intended animation. [Watch the example](https://github.com/zajalist/shadereye#readme)
-- **Shaddy** — I built the editor and parser for a shader playground. Move a shape on the canvas and the GLSL changes with it. [Try Shaddy](https://shaddy-eight.vercel.app/) · [Source](https://github.com/zajalist/shaddy)
-
-## Hackathons
-
-Our **Plumb** team took second place overall and won MLH Best Use of Vultr at MPC Hacks. The project tests whether an object placement makes physical sense and reports how far it is from a valid placement. [Submission and team](https://devpost.com/software/plumb) · [Source](https://github.com/zajalist/plumb)
-
-**OptiFrame** turns calibrated photographs of recycled eyeglass lenses into a printable fit-test frame. [Project](https://github.com/zajalist/optiframe)
+- **Shaddy** — I built the editor and parser for a shader playground during a hackathon. Move a shape on the canvas and the GLSL changes with it.
+[Try Shaddy](https://shaddy-eight.vercel.app/)
+[Source](https://github.com/zajalist/shaddy)
